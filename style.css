@@ -1,0 +1,138 @@
+.navigationbar
+{
+    background-color: #68C8B3;
+    width:100%;
+    
+}
+
+    
+
+#navbarSupportedContent
+{
+  margin-left: 50px;
+}
+.logo
+{
+    margin-top: 20px;
+    height: 150px;
+    width:170px;
+    margin-left:0px;
+    float: left;
+    padding-right: 20px;
+}
+.left
+{  
+background-color:#68C8B3;
+padding-left: 70px;
+
+  
+width:100%;
+}
+.right{
+    background-color:#68C8B3;
+  padding-right: 90px;
+   text-align: right;
+  width:100%;
+  
+}
+.phone-location
+{
+   text-align: right;
+}
+.heading_gptc
+{
+    padding-top: 30px;
+    margin-left: 150px;
+    
+    background-color:#68C8B3;
+   
+} 
+.addressGptc
+{
+   
+    margin-top:5px;
+    background-color:#68C8B3;
+    margin-right: 250px;
+    padding-right:100px;
+    width: 100%;
+    background-color:#68C8B3;
+    
+
+}
+
+header{
+   padding: 0px;
+  
+}
+.topbuttons
+{
+ width: 50%;
+margin-left: 50px;
+  background-color: #ffb85f;
+}
+.button1
+{
+ 
+ float: right;
+ 
+    margin-top: 0px;
+    border-color:aliceblue;
+    background-color: #ffb85f;
+    border-style: hidden;
+    border-radius: 8px;
+    margin:  10px;
+}
+.button2
+{
+    
+    margin:10px;
+    float: right;
+
+    background-color: #ffb85f;
+    border-color:aliceblue;
+    border-style: hidden;
+    border-radius: 8px;
+
+}
+.clgimage
+{
+    width: 100%;
+}
+.row_1
+{
+    background-color:#68C8B3;
+}
+@media only screen and (max-width: 600px) {
+    .right{
+    text-align: left;
+    padding-left: 15px;;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .addressGptc{
+        padding-top: 20px;
+     
+    }}
+    @media only screen and (max-width: 600px) {
+        .heading_gptc {
+           font-size: 10%;
+            padding-top: 10%px;
+            padding-right: 10px;
+            background-color:#68C8B3;
+        }
+        
+        }
+    
+    @media only screen and (max-width: 600px) {
+        .left{
+            padding-left: 5px;
+        }}
+        @media only screen and (max-width: 600px) {
+            .right{
+                padding-left: 20px;
+            }}
+            @media only screen and (max-width: 600px) {
+                .logo{
+                    width: 135px;
+                    height:110px;
+                }}
